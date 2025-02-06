@@ -68,5 +68,5 @@ To ensure that the system can handle large documents quickly:
 -The system maintains memory usage under 1GB, even for large documents. By breaking down content into smaller chunks, we ensure that the memory footprint is minimized, even when handling large files with complex structures like tables.
 
 ## **Demo Video**
-![Demo Video](DemoVideo.mp4)
+![Video](DemoVideo.mp4)
 
