@@ -70,14 +70,20 @@ To ensure that the system can handle large documents quickly:
 ## **How To Run The Program**
 
 - Clone the repository.
-- Install requirements by "pip install requirements.txt".
-- run by "python main.py".
+- Install requirements by
+```
+pip install -r requirements.txt
+```
+  run using:
+```
+python main.py
+```
 
 ## **Demo Video**
 
 - The demo video is given within the repository. In case of any error, use the link:https://drive.google.com/file/d/18IhJeNcTxiLdexbx7pAqfFyu3X2htdo-/view?usp=sharing.
 
-- ![image](TestImage.png)
+- ![image](demo/TestImage.png)
 
 ## **Instruction For Deployment**
 
