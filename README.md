@@ -62,11 +62,12 @@ To ensure that the system can handle large documents quickly:
 ## **Performance Benchmarks**
 
 ### **1. Processing Time**
--The system is optimized to process a 100-page PDF in under 30 seconds.
+- The system is optimized to process a 100-page PDF in under around 5 seconds.
 
 ### **2. Memory Usage**
--The system maintains memory usage under 1GB, even for large documents. By breaking down content into smaller chunks, we ensure that the memory footprint is minimized, even when handling large files with complex structures like tables.
+- The tested document of over 100 pages used a memory of only 20MB.
 
 ## **Demo Video**
-![Video](https://github.com/Yadunandanv08/PathOr-Internship/blob/main/DemoVideo%20(1).mov)
+
+- The demo video is given within the repository. In case of any error, use the link:https://drive.google.com/file/d/18IhJeNcTxiLdexbx7pAqfFyu3X2htdo-/view?usp=sharing.
 
