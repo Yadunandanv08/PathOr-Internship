@@ -62,7 +62,7 @@ To ensure that the system can handle large documents quickly:
 ## **Performance Benchmarks**
 
 ### **1. Processing Time**
-- The system is optimized to process a 100-page PDF in under around 5 seconds.
+- The system processed a test pdf of 100+ pages in under around 5 seconds.
 
 ### **2. Memory Usage**
 - The tested document of over 100 pages used a memory of only 20MB.
