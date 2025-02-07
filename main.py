@@ -50,4 +50,4 @@ if __name__ == '__main__':
         question = input("\nAsk your question: ").strip()
         if question.lower() in ['exit', 'quit']:
             break
-        print(f"\nRESPONSE:\n{engine.query(question)}\n")
+        print(f"\nRESPONSE:\n{engine.query(question)}\n") 
